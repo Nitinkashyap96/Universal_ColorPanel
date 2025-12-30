@@ -30,7 +30,7 @@ HI im Nitin Kashyap Python Scripts for Nuke .
 
 <br/>
 
-<div align="center">
+
 
 
 
@@ -47,6 +47,7 @@ HI im Nitin Kashyap Python Scripts for Nuke .
 
 
 #######################################################################################################
+
 Add init.py entry
 
 nuke.pluginAddPath(r'./Universal_ColorPanel')
