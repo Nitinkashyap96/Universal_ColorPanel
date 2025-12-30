@@ -40,14 +40,14 @@ HI im Nitin Kashyap Python Scripts for Nuke .
 
     git clone https://github.com/Nitinkashyap96/Universal_ColorPanel.git
 
-Add menu entry in init.py
+
 # Place this in your ~/.nuke/init.py file  Copy & Paste hit save  Restart Nuke
 
 
 
 
 #######################################################################################################
-
+Add init.py entry
 nuke.pluginAddPath(r'./Universal_ColorPanel')
 
 #######################################################################################################
